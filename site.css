@@ -1,0 +1,78 @@
+A {
+    color: rgb(219, 15, 104)
+}
+
+A:hover {
+    color: rgb(76, 2, 8)
+}
+
+
+body {
+
+    background: #f3bcd9;
+    padding: 50px;
+}
+
+h1,
+h2,
+h3 {
+    color: #3e0404;
+    font-family: sans-serif;
+}
+
+p {
+    background-color: rgb(240, 72, 100);
+    padding: 5%;
+    margin: 25px;
+    font-size: 20px;
+}
+
+img {
+    width: 200px;
+    display: block
+}
+
+#sackboy {
+    box-shadow: rgba(240, 46, 78, 0.4) -5px 5px, rgba(240, 46, 91, 0.3) -10px 10px, rgba(240, 46, 46, 0.2) -15px 15px, rgba(240, 46, 69, 0.1) -20px 20px, rgba(240, 46, 53, 0.05) -25px 25px;
+
+}
+
+#rainbow {
+    box-shadow: rgba(179, 46, 240, 0.4) 5px 5px, rgba(240, 46, 227, 0.3) 10px 10px, rgba(224, 46, 240, 0.2) 15px 15px, rgba(217, 46, 240, 0.1) 20px 20px, rgba(217, 46, 240, 0.05) 25px 25px;
+}
+
+body {
+    display: inline-block
+}
+
+img {
+
+    display: block;
+    margin-left: flex;
+    margin-right: flex;
+}
+
+#beetles {
+    display: flex;
+}
+
+IMG:hover {
+    transform: rotate(45deg)
+}
+
+h4 {
+    filter: blur(5px);
+    /* Apply blur initially */
+    transition: filter 0.3s ease;
+    /* Smooth transition */
+}
+
+h4:hover {
+    filter: blur(0);
+    /* Remove blur on hover */
+
+}
+
+.hightlight_01 {
+    background-color: red;
+}

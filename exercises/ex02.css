@@ -1,0 +1,57 @@
+HTML {background-color: cornsilk; }
+
+A{color:blueviolet}
+A:hover {color:rgb(243, 29, 47)}
+
+UL {
+    color: rgb(255, 42, 0);
+}
+
+h1 
+{border: 20px solid rgb(18, 18, 241);
+    color:rgb(255, 0, 0); 
+    font-weight: normal;
+}
+
+h2{
+
+    background-color: green;
+    padding: 20%;
+    margin:50px;
+    font-size: 25px;
+}
+
+h3{
+ background-color: green;
+    padding: 20%;
+    margin:50px;
+    font-size: 25px;
+}
+
+ IMG  {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;}
+
+    .highlight_01{background-color:aquamarine;}
+
+    .highlight_01:hover {background-color: orange;}
+
+    .highlight_02{background-color: greenyellow;}
+
+    .highlight_01 strong {background-color:rgb(225, 248, 240)}
+
+UL:hover {background-color:orange ;}
+
+IMG:hover {width:20%; height:150%}
+IMG:hover {transform: rotate(45deg)}
+
+#main{ padding: 50px; margin: 100px
+ red 0 -18px 40px, 5px 5px 15px 5px rgba(0,0,0,0); 
+box-shadow: #FFF 0 -1px 4px, #ff0 0 -2px 10px, #ff8000 0 -10px 20px, red 0 -18px 40px, 5px 5px 15px 5px rgba(0,0,0,0);
+    
+}
+
+#gallery {display: flex;}
+
+#gallery IMG {width:34%}
